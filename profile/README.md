@@ -1,7 +1,7 @@
 ## Welcome to zhou-siyu's Org 👋
 Hi, this is me, siyu zhou.
 
-Glad to be able to participate in the training of GTB🍿.
+Glad to be able to participate in GTB🍿.
 
 I graduated from Central China Normal University🌈.
 
