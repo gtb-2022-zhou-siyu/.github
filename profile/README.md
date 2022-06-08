@@ -1,14 +1,14 @@
 ## Welcome to zhou-siyu's Org 👋
 Hi, this is me, siyu zhou.
 
-Glad to be able to participate in GTB🍿.
+Glad to be able to participate in GTB. 🍿
 
-I graduated from Central China Normal University🌈.
+I graduated from Central China Normal University. 🌈
 
 ![This is an image](/assets/ccnu.JPG)
 
 
-这是我最近的照片（骗）🙋‍♀️。
+这是我最近的照片（骗）。🙋‍♀️
 
 ![This is an image](/assets/me.jpg)
 
